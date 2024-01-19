@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/build",
+  "command": "C:\\Users\\hakla\\ONEDRI~1\\23-FAL~1\\ELEC27~2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\model.dir\\model.c.obj -c \"C:\\Users\\hakla\\OneDrive - Queen's University\\23 - Fall Term\\ELEC 278\\assignment\\model.c\"",
+  "file": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/model.c",
+  "output": "CMakeFiles/model.dir/model.c.obj"
+},
+{
+  "directory": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/build",
+  "command": "C:\\Users\\hakla\\ONEDRI~1\\23-FAL~1\\ELEC27~2\\mingw64\\bin\\gcc.exe  @CMakeFiles/interactive.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\interactive.dir\\interface.c.obj -c \"C:\\Users\\hakla\\OneDrive - Queen's University\\23 - Fall Term\\ELEC 278\\assignment\\interface.c\"",
+  "file": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/interface.c",
+  "output": "CMakeFiles/interactive.dir/interface.c.obj"
+},
+{
+  "directory": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/build",
+  "command": "C:\\Users\\hakla\\ONEDRI~1\\23-FAL~1\\ELEC27~2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\testrunner.c.obj -c \"C:\\Users\\hakla\\OneDrive - Queen's University\\23 - Fall Term\\ELEC 278\\assignment\\testrunner.c\"",
+  "file": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/testrunner.c",
+  "output": "CMakeFiles/testrunner.dir/testrunner.c.obj"
+},
+{
+  "directory": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/build",
+  "command": "C:\\Users\\hakla\\ONEDRI~1\\23-FAL~1\\ELEC27~2\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\tests.c.obj -c \"C:\\Users\\hakla\\OneDrive - Queen's University\\23 - Fall Term\\ELEC 278\\assignment\\tests.c\"",
+  "file": "C:/Users/hakla/OneDrive - Queen's University/23 - Fall Term/ELEC 278/assignment/tests.c",
+  "output": "CMakeFiles/testrunner.dir/tests.c.obj"
+}
+]

@@ -1,0 +1,1 @@
+  -L"C:/Users/hakla/ONEDRI~1/23-FAL~1/ELEC27~2/mingw64/opt/lib"  -lncursesw -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
